@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Антон Цымбал](https://up.htmlacademy.ru/adaptive/7/user/178775).
-* Наставник: `Неизвестно`.
+* Наставник: `Илья Сачев`. (https://htmlacademy.ru/profile/id11939)
 
 ---
 
